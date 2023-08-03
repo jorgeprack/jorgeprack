@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jorgeprack I'm architect from Argentina.
 - 👀 I’m interested in ...Computer science, architecture, history and art.
-- 🌱 I’m currently learning ...Introduction to Computer Science by David Malan
+- 🌱 I’m currently learning ...Introduction to Computer Science taught by David Malan.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...jorge.prack@gmail.com
 
